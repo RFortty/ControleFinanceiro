@@ -1,0 +1,21 @@
+C:\Users\Aluno\Desktop\roberto\teste\teste\bin\Debug\teste.exe.config
+C:\Users\Aluno\Desktop\roberto\teste\teste\bin\Debug\teste.exe
+C:\Users\Aluno\Desktop\roberto\teste\teste\bin\Debug\teste.pdb
+C:\Users\Aluno\Desktop\roberto\teste\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\roberto\teste\teste\obj\Debug\teste.Form1.resources
+C:\Users\Aluno\Desktop\roberto\teste\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Aluno\Desktop\roberto\teste\teste\obj\Debug\teste.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\roberto\teste\teste\obj\Debug\teste.exe
+C:\Users\Aluno\Desktop\roberto\teste\teste\obj\Debug\teste.pdb
+C:\Users\Jasmin\Desktop\Trabalho -Contas a Pagar\teste\bin\Debug\teste.exe.config
+C:\Users\Jasmin\Desktop\Trabalho -Contas a Pagar\teste\obj\Debug\teste.exe
+C:\Users\Jasmin\Desktop\Trabalho -Contas a Pagar\teste\obj\Debug\teste.pdb
+C:\Users\Jasmin\Desktop\Trabalho -Contas a Pagar\teste\bin\Debug\teste.exe
+C:\Users\Jasmin\Desktop\Trabalho -Contas a Pagar\teste\bin\Debug\teste.pdb
+C:\Users\Jasmin\Desktop\Trabalho -Contas a Pagar\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+C:\Users\Jasmin\Desktop\Trabalho -Contas a Pagar\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Jasmin\Desktop\Trabalho -Contas a Pagar\teste\obj\Debug\teste.csproj.GenerateResource.Cache
+C:\Users\Jasmin\Desktop\Trabalho -Contas a Pagar\teste\obj\Debug\teste.frmPrincipal.resources
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.config
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.pdb

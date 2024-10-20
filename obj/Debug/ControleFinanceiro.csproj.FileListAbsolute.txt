@@ -1,0 +1,199 @@
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.config
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.pdb
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPrincipal.resources
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csproj.GenerateResource.Cache
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.pdb
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.FrmLogin.resources
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.manifest
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.application
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe.manifest
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.application
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmUsuarios.resources
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.config
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csprojResolveAssemblyReference.cache
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPrincipal.resources
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmLogin.resources
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmUsuarios.resources
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.Properties.Resources.resources
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csproj.GenerateResource.Cache
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.manifest
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\bin\Debug\teste.application
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\bin\Debug\teste.pdb
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe.manifest
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.application
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.pdb
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.config
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.pdb
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.manifest
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.application
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.pdb
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPrincipal.resources
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmLogin.resources
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmUsuarios.resources
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csproj.GenerateResource.Cache
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe.manifest
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.application
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.config
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.pdb
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.manifest
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.application
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.pdb
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPrincipal.resources
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmLogin.resources
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmUsuarios.resources
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csproj.GenerateResource.Cache
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe.manifest
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.application
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.config
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.pdb
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.manifest
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.application
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.pdb
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPrincipal.resources
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmLogin.resources
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmUsuarios.resources
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csproj.GenerateResource.Cache
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe.manifest
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.application
+C:\Users\Janaina\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSobre.resources
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmCategorias.resources
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSobre.resources
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSubCategorias.resources
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmCategorias.resources
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSobre.resources
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSubCategorias.resources
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmMovimentacao.resources
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmMovimentacao.resources
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmCategorias.resources
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSobre.resources
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSubCategorias.resources
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmMovimentacao.resources
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPagar.resources
+C:\Users\Multas\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmReceber.resources
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPagar.resources
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmReceber.resources
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.config
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.pdb
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.manifest
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.application
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.pdb
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPrincipal.resources
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmCategorias.resources
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmLogin.resources
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPagar.resources
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmReceber.resources
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSobre.resources
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSubCategorias.resources
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmUsuarios.resources
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmMovimentacao.resources
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csproj.GenerateResource.Cache
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe.manifest
+C:\Users\Alexandre\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.application
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPagar.resources
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmReceber.resources
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\itextsharp.dll
+C:\Users\Jasmin\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\itextsharp.dll
+C:\Users\Strong\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\itextsharp.pdfa.dll
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\bin\Debug\itextsharp.dll
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\bin\Debug\itextsharp.pdfa.dll
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmCategorias.resources
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPagar.resources
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmReceber.resources
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSobre.resources
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSubCategorias.resources
+E:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmMovimentacao.resources
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.config
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.pdb
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.manifest
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.application
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\teste.pdb
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\itextsharp.dll
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPrincipal.resources
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmCategorias.resources
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmLogin.resources
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmPagar.resources
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmReceber.resources
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSobre.resources
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmSubCategorias.resources
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmUsuarios.resources
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.frmMovimentacao.resources
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe.manifest
+C:\Users\Aluno\Desktop\Trabalho -Controle Financeiro\teste\obj\Debug\teste.application
+L:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\bin\Debug\teste.exe.config
+L:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.exe
+L:\Strong\ADS - Análise & Desenvolvimento de Sistemas\Trabalho -Controle Financeiro\teste\obj\Debug\teste.pdb
+C:\Controle Financeiro\teste\bin\Debug\teste.exe.config
+C:\Controle Financeiro\teste\obj\Debug\teste.exe
+C:\Controle Financeiro\teste\obj\Debug\teste.pdb
+C:\Controle Financeiro\teste\bin\Debug\teste.exe.manifest
+C:\Controle Financeiro\teste\bin\Debug\teste.application
+C:\Controle Financeiro\teste\bin\Debug\teste.exe
+C:\Controle Financeiro\teste\bin\Debug\teste.pdb
+C:\Controle Financeiro\teste\bin\Debug\itextsharp.dll
+C:\Controle Financeiro\teste\bin\Debug\itextsharp.pdfa.dll
+C:\Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csprojResolveAssemblyReference.cache
+C:\Controle Financeiro\teste\obj\Debug\teste.frmPrincipal.resources
+C:\Controle Financeiro\teste\obj\Debug\teste.frmCategorias.resources
+C:\Controle Financeiro\teste\obj\Debug\teste.frmLogin.resources
+C:\Controle Financeiro\teste\obj\Debug\teste.frmPagar.resources
+C:\Controle Financeiro\teste\obj\Debug\teste.frmReceber.resources
+C:\Controle Financeiro\teste\obj\Debug\teste.frmSobre.resources
+C:\Controle Financeiro\teste\obj\Debug\teste.frmSubCategorias.resources
+C:\Controle Financeiro\teste\obj\Debug\teste.frmUsuarios.resources
+C:\Controle Financeiro\teste\obj\Debug\teste.frmMovimentacao.resources
+C:\Controle Financeiro\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csproj.GenerateResource.Cache
+C:\Controle Financeiro\teste\obj\Debug\teste.exe.manifest
+C:\Controle Financeiro\teste\obj\Debug\teste.application
+C:\Users\Strong\Desktop\Controle Financeiro\teste\bin\Debug\teste.exe.config
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.exe
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.pdb
+C:\Users\Strong\Desktop\Controle Financeiro\teste\bin\Debug\teste.exe.manifest
+C:\Users\Strong\Desktop\Controle Financeiro\teste\bin\Debug\teste.application
+C:\Users\Strong\Desktop\Controle Financeiro\teste\bin\Debug\teste.exe
+C:\Users\Strong\Desktop\Controle Financeiro\teste\bin\Debug\teste.pdb
+C:\Users\Strong\Desktop\Controle Financeiro\teste\bin\Debug\itextsharp.dll
+C:\Users\Strong\Desktop\Controle Financeiro\teste\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.frmPrincipal.resources
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.frmCategorias.resources
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.frmLogin.resources
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.frmPagar.resources
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.frmReceber.resources
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.frmSobre.resources
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.frmSubCategorias.resources
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.frmUsuarios.resources
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.frmMovimentacao.resources
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\ControleFinanceiro.csproj.GenerateResource.Cache
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.exe.manifest
+C:\Users\Strong\Desktop\Controle Financeiro\teste\obj\Debug\teste.application
